@@ -1,0 +1,16 @@
+{
+    "name": "color-palette-image-generator",
+    "version": "1.0.0",
+    "description": "Generate an image using canvas with a list of colors",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "canvas": "^2.11.2",
+        "chalk": "^5.3.0",
+        "figlet": "^1.7.0",
+        "fs": "0.0.1-security",
+        "prompt-sync": "^4.2.0"
+    }
+}
